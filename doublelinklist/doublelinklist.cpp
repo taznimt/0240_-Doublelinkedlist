@@ -13,6 +13,7 @@ struct Node
 	Node* prev;
 };
 
+
 int main()
 {
    

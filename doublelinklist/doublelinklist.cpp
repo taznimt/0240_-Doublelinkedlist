@@ -17,6 +17,7 @@ Node* START = NULL;
 
 void addNode() {
 	Node* newNode = new Node(); // step1 : create a new mode
+	cout << "\nEnter the roll number of the student: ";
 }
 
 int main()

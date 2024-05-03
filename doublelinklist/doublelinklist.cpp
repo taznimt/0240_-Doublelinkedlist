@@ -224,6 +224,9 @@ int main()
 			case '3':
 				traverse();
 				break;
+			case '4':
+				revtraverse();
+				break;
 			
 }
 

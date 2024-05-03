@@ -50,6 +50,7 @@ void addNode() {
 			current = current->next; //step 1.e: move the current to the next node
 			
 		}
+		newNode->next = current; // step 4: make the next field of the new node point to current
 	}
 }
 

@@ -232,7 +232,11 @@ int main()
 				break;
 			case '6':
 				return 0;
-			
+			default:
+				cout << "\nInvalid option" << endl;
+				break;
+			}
+		}
 }
 
 

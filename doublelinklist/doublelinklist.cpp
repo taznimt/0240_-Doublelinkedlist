@@ -230,6 +230,8 @@ int main()
 			case '5':
 				searchData();
 				break;
+			case '6':
+				return 0;
 			
 }
 
